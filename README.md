@@ -1,0 +1,2 @@
+# Sales
+SQL mini project
